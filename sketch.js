@@ -32,7 +32,7 @@ function preload(){
     obstacleImage = loadImage("f1.png");
     ground = loadImage("ground.png");
     bronze_img = loadImage("bronze.png");
-    silver_img = loadImage("Silver.png");
+    silver_img = loadImage("silver.png");
     gold_img = loadImage("gold.png");
     carSound=loadSound("sliding.mp3")
 }
